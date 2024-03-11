@@ -30,7 +30,7 @@ function Footer() {
 
             <span className="mx-20"></span>
 
-            <a href='https://github.com/your-github-username' target='_blank' rel='noopener noreferrer' className='text-lg flex flex-row text-violet-300'>
+            <a href='https://github.com/syed512-sajid/Project-1' target='_blank' rel='noopener noreferrer' className='text-lg flex flex-row text-violet-300'>
               <div className='h-[30px] rounded-full justify-center items-center bg-violet-400'><FaGithub className='text-white' /></div>
               <span className='text-white ml-1 mt-[0.1rem]'>Coming Soon</span>
             </a>
